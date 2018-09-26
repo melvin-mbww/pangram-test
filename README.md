@@ -1,7 +1,6 @@
 # pangram-test
-Automated Tests For the Pangram API
 
-In the framework of your choice, please create automated tests for the pangram-api.
+In the framework of your choice, please create automated tests for the pangram-api.  A pangram is a sentence or a verse that contains all the letters of the alphabet.
 
 Here's a quick description of the pangram-api.
 
